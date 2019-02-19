@@ -1,0 +1,7 @@
+{
+  "env": { 
+    "MONGO_USER": "node-api",
+    "MONGO_PASS": "zK8mLeBlFlnpjDbz",
+    "MONGO_DB": "event-booking-dev"
+  }
+}
